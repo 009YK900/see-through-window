@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 自检生成的报告
+see-through-window-selftest.log
+
+# 用户自己的热键配置（首次运行自动生成）
+config.ini
+
+# 会话状态：记录被改过的窗口，用于崩溃后自愈
+see-through-window-state.json
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
